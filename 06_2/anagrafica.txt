@@ -1,0 +1,5 @@
+A1234 Kevin Mascitti 10/11/1999 CorsoLione Torino 10141
+A1222 Mario Rossi 11/10/1998 CorsoEinaudi Torino 10130
+A3213 Alessandro Grasso 30/01/2000 ViaCernaia Torino 10121
+A1223 Antonio Russi 01/08/1998 ViaPo Torino 10112
+A9876 Federico Mafrici 20/08/1999 CorsoRoma Torino 10121

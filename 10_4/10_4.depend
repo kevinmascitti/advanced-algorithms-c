@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1579167084 source:c:\users\kevin\desktop\programmic\10_4\st.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ST.h"
+
+1579167084 c:\users\kevin\desktop\programmic\10_4\st.h
+
+1579213350 source:c:\users\kevin\desktop\programmic\10_4\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"ST.h"
+
+1579212287 c:\users\kevin\desktop\programmic\10_4\graph.h
+	"ST.h"
+
+1579212693 source:c:\users\kevin\desktop\programmic\10_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+

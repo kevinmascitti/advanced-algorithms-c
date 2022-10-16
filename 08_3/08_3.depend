@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575988332 source:c:\users\kevin\desktop\programmic\08_3\main.c
+	"personaggi.h"
+	"inventario.h"
+
+1575987314 c:\users\kevin\desktop\programmic\08_3\personaggi.h
+	"inventario.h"
+
+1575987314 c:\users\kevin\desktop\programmic\08_3\inventario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575987583 source:c:\users\kevin\desktop\programmic\08_3\personaggi.c
+	"personaggi.h"
+
+1575987277 source:c:\users\kevin\desktop\programmic\08_3\inventario.c
+	"inventario.h"
+

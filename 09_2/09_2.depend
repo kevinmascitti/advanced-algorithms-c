@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1576972184 source:c:\users\kevin\desktop\programmic\09_2\inventario.c
+	"inventario.h"
+
+1576656530 c:\users\kevin\desktop\programmic\09_2\personaggi.h
+	"vettEquip.h"
+	"vettInv.h"
+	"inventario.h"
+
+1576610975 c:\users\kevin\desktop\programmic\09_2\inventario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576972123 source:c:\users\kevin\desktop\programmic\09_2\main.c
+	"pgList.h"
+	"personaggi.h"
+	"vettInv.h"
+	<stdio.h>
+	<stdlib.h>
+
+1576972153 source:c:\users\kevin\desktop\programmic\09_2\personaggi.c
+	"personaggi.h"
+
+1576971926 c:\users\kevin\desktop\programmic\09_2\pglist.h
+	"personaggi.h"
+
+1576971926 c:\users\kevin\desktop\programmic\09_2\vettequip.h
+	"vettInv.h"
+
+1576971926 c:\users\kevin\desktop\programmic\09_2\vettinv.h
+	"inventario.h"
+
+1576973152 source:c:\users\kevin\desktop\programmic\09_2\vettinv.c
+	"vettInv.h"
+	<stdio.h>
+	<stdlib.h>
+
+1576973498 source:c:\users\kevin\desktop\programmic\09_2\pglist.c
+	"pgList.h"
+	<string.h>
+
+1576973152 source:c:\users\kevin\desktop\programmic\09_2\vettequip.c
+	"vettEquip.h"
+

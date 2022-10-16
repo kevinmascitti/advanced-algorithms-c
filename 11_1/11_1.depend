@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1579602691 source:c:\users\kevin\desktop\programmic\11_1\dataora.c
+	<stdio.h>
+	<stdlib.h>
+	"dataora.h"
+
+1579608326 c:\users\kevin\desktop\programmic\11_1\dataora.h
+
+1579601811 source:c:\users\kevin\desktop\programmic\11_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"titoli.h"
+	"quotazioni.h"
+
+1579601957 source:c:\users\kevin\desktop\programmic\11_1\quotazioni.c
+	"quotazioni.h"
+
+1579608326 c:\users\kevin\desktop\programmic\11_1\quotazioni.h
+	<stdio.h>
+	<stdlib.h>
+	"dataora.h"
+
+1579602045 source:c:\users\kevin\desktop\programmic\11_1\titoli.c
+	"titoli.h"
+
+1579608326 c:\users\kevin\desktop\programmic\11_1\titoli.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"quotazioni.h"
+

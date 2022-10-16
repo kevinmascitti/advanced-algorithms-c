@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570563079 source:c:\users\kevin\desktop\programmi c\00_2\parole.c
+
+1570567477 source:c:\users\kevin\desktop\programmi c\00_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1571086860 source:c:\users\kevin\desktop\programmic\00_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
